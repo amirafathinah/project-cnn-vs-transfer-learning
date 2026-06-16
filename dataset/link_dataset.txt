@@ -1,1 +1,4 @@
+Link Dataset
 
+Dataset Cifar 10: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+Dataset Cats and Dogs: https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
